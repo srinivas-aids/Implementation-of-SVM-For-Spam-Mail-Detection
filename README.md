@@ -52,23 +52,33 @@ accuracy
 ```
 
 ## Output:
-##DATA HEAD:
+## DATA HEAD:
+
+
 ![1](https://user-images.githubusercontent.com/93427183/173223434-75198e20-5bae-4091-b84e-5bf95da7abf8.png)
 
 
-##DATA INFO:
+## DATA INFO:
+
+
 ![2](https://user-images.githubusercontent.com/93427183/173223442-f0e1174a-394c-49a1-9c64-bda6c2ba32e0.png)
 
 
-##Data isnull():
+## Data isnull():
+
+
 ![3](https://user-images.githubusercontent.com/93427183/173223451-46196de2-5e89-4491-9f9c-efb88bf8a101.png)
 
 
-##y_pred:
+## y_pred:
+
+
 
 ![4](https://user-images.githubusercontent.com/93427183/173223461-85d2efa8-fcac-467b-be51-02505239fe3c.png)
 
-##Accuracy:
+## Accuracy:
+
+
 ![173184122-47c59aa7-86b2-4a41-b672-efe4985fa0d5](https://user-images.githubusercontent.com/93427183/173223466-e020ccab-9184-4a7e-bf59-7d0785014776.png)
 
 
